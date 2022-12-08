@@ -1,0 +1,5 @@
+ipython
+biopython
+snakemake
+hisat2
+samtools
